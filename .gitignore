@@ -1,0 +1,8 @@
+# rust
+**/target
+**/*.rs.bk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
