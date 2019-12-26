@@ -1,3 +1,6 @@
 fn main() {
-    println!("Hello, Rust!");
+    let s = "Rust!";
+    println!("Hello, {}", s);
+    println!("Hello, {}", s);
+    println!("{}", s.len());
 }
